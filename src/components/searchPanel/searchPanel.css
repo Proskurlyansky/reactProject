@@ -8,3 +8,11 @@
 .inputSearch {
   background-color: rgba(255,255,255, .7 ) !important;
 }
+
+@media (max-width: 575px) {
+  .appSearchPanel .form-outline {
+    margin-right: 0;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
