@@ -1,0 +1,10 @@
+.form-outline {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+  margin-right: 20px;
+}
+  
+.inputSearch {
+  background-color: rgba(255,255,255, .7 ) !important;
+}
